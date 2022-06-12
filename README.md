@@ -3,7 +3,7 @@
 ### About me
 - 🌱 I'm currently studying in Netology as a java developer
 - 👯 I’m looking to collaborate on create open source project by Spring Framework
-- 👷 Working SAP developer
+- 👷 Working SAP developer (ABAP language)
 
 
 ### Languages and Tools
@@ -12,8 +12,10 @@
 ![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)
 ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)
 
-### Contact
+### Contacts
 
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/notnulldev)
+
+### Statistics
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twozeros&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
