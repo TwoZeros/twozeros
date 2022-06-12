@@ -1,4 +1,4 @@
-## I'm junior Java developer👋
+## I'm Java developer👋
 
 ### About me
 - 🌱 I'm currently studying in Netology as a java developer
