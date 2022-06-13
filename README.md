@@ -15,7 +15,3 @@
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/-telegram-black?style=for-the-badge&logo=telegram)](https://t.me/notnulldev)
-
-### Statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=twozeros&count_private=true&theme=radical)
