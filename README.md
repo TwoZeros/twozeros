@@ -1,9 +1,8 @@
 ## I'm Java developer👋
 
 ### About me
-- 🌱 I'm currently studying in Netology as a java developer
+- 👷 I'm currently working Java backend Developer.
 - 👯 I’m looking to collaborate on create open source project by Spring Framework
-- 👷 Working as administrator/developer Oracle Identity Management
 
 
 ### Languages and Tools
